@@ -1,0 +1,54 @@
+{
+    "name": "DefaultInputActions",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "1849891f-5a02-4310-b45b-c6492781432b",
+            "actions": [
+                {
+                    "name": "Flap",
+                    "type": "Button",
+                    "id": "722446c0-1182-42d5-93d1-1f064bc72c1c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Driver",
+                    "type": "Button",
+                    "id": "76b3226f-69ea-47ca-ac2a-3cbea5877add",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "63bdc6ee-66b8-4eb8-8b9c-d63b60a780f5",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Flap",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "10e1cdd7-20ea-4277-a29a-e3d023abbf4b",
+                    "path": "<Gamepad>/buttonNorth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Driver",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
