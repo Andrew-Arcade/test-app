@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Temp script — launch a Unity (x86_64) test app inside cage on the Pi
-# Usage: sudo bash tmp_launch_test.sh
-
 APP_DIR="/andrewarcade/cabinets/test-app"
 BINARY="./release/flappyTurd.x86_64"
 
