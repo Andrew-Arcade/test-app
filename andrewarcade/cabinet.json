@@ -1,7 +1,8 @@
 {
   "display_name": "Flappy Turd",
   "description": "A flappy bird remake for Andrew Arcade testing.",
-  "icon": "Assets/_Flappy Bird/Images/Icons/flappy_turd_icon.png",
+  "icon": "icon.png",
   "developer": "Andrew Arcade",
-  "command": "./scripts/launch.sh"
+  "command": "./scripts/launch.sh",
+  "asset": "andrewarcade.zip"
 }

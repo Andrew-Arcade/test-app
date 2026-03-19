@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APP_DIR="/andrewarcade/cabinets/test-app"
-BINARY="./release/flappyTurd.x86_64"
+BINARY="./build/flappyTurd.x86_64"
 
 # Runtime directory
 mkdir -p /run/user/1001
