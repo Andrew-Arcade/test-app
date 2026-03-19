@@ -3,5 +3,5 @@
   "description": "A flappy bird remake for Andrew Arcade testing.",
   "icon": "Assets/_Flappy Bird/Images/Icons/flappy_turd_icon.png",
   "developer": "Andrew Arcade",
-  "launch_command": "yes"
+  "command": "yes"
 }
